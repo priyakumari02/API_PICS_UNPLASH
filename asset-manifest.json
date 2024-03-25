@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/API_PICS_UNPLASH/static/css/main.daef2d5d.css",
+    "main.js": "/API_PICS_UNPLASH/static/js/main.63599307.js",
+    "index.html": "/API_PICS_UNPLASH/index.html",
+    "main.daef2d5d.css.map": "/API_PICS_UNPLASH/static/css/main.daef2d5d.css.map",
+    "main.63599307.js.map": "/API_PICS_UNPLASH/static/js/main.63599307.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.daef2d5d.css",
+    "static/js/main.63599307.js"
+  ]
+}
